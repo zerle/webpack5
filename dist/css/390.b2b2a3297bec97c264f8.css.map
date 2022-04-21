@@ -1,0 +1,1 @@
+{"version":3,"file":"./css/390.b2b2a3297bec97c264f8.css","mappings":"AAAA","sources":["webpack://webpack5-demo/css/390.b2b2a3297bec97c264f8.css"],"sourcesContent":["body {\r\n  background-color: aqua;\r\n  display: -webkit-box;\r\n  display: -ms-flexbox;\r\n  display: flex;\r\n}\n"],"names":[],"sourceRoot":""}
